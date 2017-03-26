@@ -15,6 +15,6 @@ Leave Blank
 Collider (You can leave blank, but I put the obj file here):
 https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/FigurineModel.obj
 
-Leave Convex unchecked and set the type to "figurine". Under the Material tab, choose cardboard. Then simply import your new model and bask in your new creation!
+Leave Non-Convex unchecked and set the type to "figurine". Under the Material tab, choose cardboard. Then simply import your new model and bask in your new creation!
 
 You don't need to stay subcribed to my mod, but please give a thumbs up if you found this useful. Enjoy!
