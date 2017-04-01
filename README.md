@@ -8,8 +8,12 @@ Everything you need to make your own models is included here, so you technically
 
 Changelog:
 3/29/2017 - Now updated with better instructions, which are available below and in the mod itself.
+
 3/31/2017 - Updated model to use new obj file link so it no longer spawns the piece in broken. However, if you still have issues you can use this alternative model mesh link instead:
 https://gist.githubusercontent.com/Rokem/641085af3a0d98e37664b22f2c29a4f8/raw/77a0c9b54691c67133e5d574deddeb650ed57bce/FigurineModel.obj
+
+
+
 
 
 INSTRUCTIONS
@@ -21,6 +25,7 @@ I recommend using GIMP or Photoshop to create the image, and be sure to save it 
 
 
 METHOD 1 - CLONING AN EXISTING MODEL:
+
 *Save the default model to your chest (Optional).
 *Whenever you want to create a new model, spawn it from your chest, right click on the model, and click "Custom".
 *Change the Diffuse Image link with a link to your newly minted image file instead.
@@ -28,6 +33,7 @@ METHOD 1 - CLONING AN EXISTING MODEL:
 *Don't forget to give a thumbs up if you found this useful! :D
 
 METHOD 2 - CREATING A NEW MODEL FROM SCRATCH:
+
 *Create a new custom model in Tabletop Simulator using the following parameters:
 
 *Model/mesh:
