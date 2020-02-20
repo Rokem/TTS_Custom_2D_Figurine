@@ -25,7 +25,7 @@ STEP 1: Use one of the templates below to create your image. I recommend using G
 
 MIRRORED TEMPLATE:
 https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/Layout-Blank.png
-TWO-SIDED TEMPLATE:
+TWO SIDED TEMPLATE:
 https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/2SLayout-Blank.png
 
 STEP 2: Once you have created your image, upload it to the internet. I recommend using the in-game upload feature. 
@@ -49,7 +49,7 @@ STEP 2: For the MODEL/MESH and COLLIDER parameters, use the link below which mat
 
 MIRRORED TEMPLATE:
 https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/FigurineModel.obj
-TWO-SIDED TEMPLATE:
+TWO SIDED TEMPLATE:
 https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/TwoSidedModel.obj
 
 STEP 3: For DIFFUSE IMAGE, add the link to your newly minted and uploaded image file.
