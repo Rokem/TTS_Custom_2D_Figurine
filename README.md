@@ -9,9 +9,8 @@ Everything you need to make your own models is included here, so you technically
 Oh and feel free to use these in your own mods, just drop me a shout out if you do :D
 
 
-==============================================
 CHANGELOG
-==============================================
+--------------------------------------------------------------------------------
 2/20/2020 - Tinting now only applies to figurine base. Fixed seam issues. 
 8/20/2018 - Updated the instructions within the mod to make them clearer to understand.
 3/4/2018 - Updated the description with even better instructions.
@@ -20,10 +19,8 @@ CHANGELOG
 3/29/2017 - Now updated with better instructions, which are available below and in the mod itself.
 
 
-
-==============================================
 INSTRUCTIONS
-==============================================
+--------------------------------------------------------------------------------
 STEP 1: Use one of the templates below to create your image. I recommend using GIMP or Photoshop to edit the template. When you are done, save the image as a PNG to preserve transparency. There are lots of tutorials online and on youtube if you are unfamiliar with how to use these programs.
 
 MIRRORED TEMPLATE:
@@ -34,7 +31,7 @@ https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/2SLayout-B
 STEP 2: Once you have created your image, upload it to the internet. I recommend using the in-game upload feature. 
 STEP 3: Use method A or B to create the model in Tabletop Simulator.
 
---------------------------------------------------------------------------------
+
 METHOD A: CLONING AN EXISTING MODEL
 --------------------------------------------------------------------------------
 STEP 1: Save the default models to your chest.
@@ -44,7 +41,7 @@ STEP 4: Import your new model and bask in your new creation!
 STEP 5: (OPTIONAL) Edit the name and description of your newly created model.
 STEP 6: Don't forget to give this mod a thumbs up if you found this useful! :D
 
---------------------------------------------------------------------------------
+
 METHOD B: CREATING A NEW MODEL FROM SCRATCH
 --------------------------------------------------------------------------------
 STEP 1: to create a new custom model in Tabletop Simulator, go to Objects > Components > Custom > Model.
