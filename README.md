@@ -9,7 +9,7 @@ Everything you need to make your own models is included here, so you technically
 Oh and feel free to use these in your own mods, just drop me a shout out if you do :D
   
 ## CHANGELOG
-2/20/2020 - Tinting now only applies to figurine base. Fixed seam issues.  
+2/20/2020 - Tinting now only applies to figurine base. Minimized seam issues.  
 8/20/2018 - Updated the instructions within the mod to make them clearer to understand.  
 3/4/2018 - Updated the description with even better instructions.  
 4/2/2017 - New Two-Sided Version! It spawns in backwards, don't ask why.  
