@@ -9,6 +9,7 @@ Everything you need to make your own models is included here, so you technically
 Oh and feel free to use these in your own mods, just drop me a shout out if you do :D
   
 ## CHANGELOG
+3/7/2020 - Created new 2x1 wide-base figurine which can be used for landscape style images.
 2/20/2020 - Tinting now only applies to figurine base. Minimized seam issues.  
 8/20/2018 - Updated the instructions within the mod to make them clearer to understand.  
 3/4/2018 - Updated the description with even better instructions.  
@@ -23,6 +24,8 @@ MIRRORED TEMPLATE:
 https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/Layout-Blank.png  
 TWO-SIDED TEMPLATE:  
 https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/2SLayout-Blank.png  
+WIDE-BASE TEMPLATE:  
+https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/WBLayout-Blank.png  
   
 STEP 2: Once you have created your image, upload it to the internet. I recommend using the in-game upload feature.  
 STEP 3: Use method A or B to create the model in Tabletop Simulator.  
@@ -45,6 +48,8 @@ MIRRORED TEMPLATE:
 https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/FigurineModel.obj  
 TWO-SIDED TEMPLATE:  
 https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/TwoSidedModel.obj  
+WIDE-BASE TEMPLATE:  
+https://raw.githubusercontent.com/Rokem/TTS_Custom_2D_Figurine/master/WideBaseModel.obj
   
 STEP 3: For DIFFUSE IMAGE, add the link to your newly minted and uploaded image file.  
 STEP 4: Leave NORMAL/BUMP blank.  
