@@ -1,3 +1,5 @@
+## INTRODUCTION
+
 A custom 2D figurine optimized for 1x1 grids in Tabletop Simulator!
 
 Are you tired of the bulky metal base used for the custom figurine model? Do you hate how shiny the base looks or how hard it is to knock over pieces due to its heft? Does it bother you how tiny your image looks when you shrink down the base to fit into a 1x1 grid space?
